@@ -1,4 +1,4 @@
-include_controls 'redhat-enterprise-linux-8-stig-baseline' do
+include_controls 'nginx-baseline' do
 
     control 'V-13613' do
         impact 0.0
